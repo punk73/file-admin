@@ -54,3 +54,4 @@ def move():
         # new_folder = 
 
 move()
+print('finish! data rapi! yeayyy!!!')
